@@ -1,0 +1,8 @@
+# Highfleet manual elevation settings (restart the game after editing)
+max_floor=3
+# 1: mounted modules (guns etc.) are moved together with the part you edit
+sync_children=1
+# floor of a mounted module relative to its mount (0 = same floor, 1 = one above)
+child_offset=0
+# 1: show the on-screen text readout in the editor
+overlay=1
